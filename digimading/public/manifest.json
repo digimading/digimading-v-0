@@ -1,0 +1,16 @@
+{
+    "name": "DigiMading",
+    "short_name": "DigiMading",
+    "description": "Aplikasi Mading Digital",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#222222",
+    "theme_color": "#222222",
+    "icons": [
+        {
+            "src": "img/icon.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
